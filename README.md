@@ -10,3 +10,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Zebra2711&theme=github_dark&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zebra2711&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+
