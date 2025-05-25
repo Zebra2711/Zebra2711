@@ -2,7 +2,10 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zebra2711&label=Profile%20views&color=0e75b6&style=flat"  />
+  <img src="https://img.shields.io/badge/Profile-views-0e75b6" alt="Profile views badge" />
+</div>
+<div align="center">
+  <img src="https://count.getloli.com/get/@Zebra2711?theme=moebooru"  />
 </div>
 
 <div align="center">
